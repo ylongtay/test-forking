@@ -1,5 +1,5 @@
 # Software Developer Professional (6 Months) Entry Assessment
-
+# Yay - successful fork and git clone ;D
 ## Brief
 
 In this assessment, you will be given references for self study before making an attempt to five coding practices. To download this folder, you can clone it or download this as a zip file. 
